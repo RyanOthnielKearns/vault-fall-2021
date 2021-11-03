@@ -1,0 +1,10 @@
+- ask thomas: who should be the second reader?
+	- ray briggs?
+- dept regulations are super open (7.5k to 12.5k words)
+- for graduate school
+	- 2 things relevant to keep the door open
+		- writing sample (20-25 page range)
+		- even better: have a published paper
+		- in both cases: something quite short! as high quality as can manage
+			- 25+ pages becomes too long for both
+	- should be aiming at publishable length piece in the 20 page range

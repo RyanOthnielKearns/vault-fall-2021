@@ -1,0 +1,19 @@
+- Definition about computation: "to find out (something) by using a mathematical process"
+	- Left out of definition: _computers_!
+	- Want a definition that is stable throughout technological progress
+	- Notion of computers actually predates digital computers -- used to be a profession
+- Algorithms we have spent time learning (not just in digital computers)
+	- E.g. grade school multiplication
+	- Algebra -- born in computation
+	- Geometry -- has its roots in algorithms
+		- "You cannot square a circle" = computational impossibility result
+- **Computing**: the "evolution of an environment via repeated application of *simple*, *local* rules"
+	- What is this environment we are changing?
+	- What are the simple, local rules we apply in this environment?
+	- ==> The Computational Lens
+- Computational Bounding (Limited Resources)
+	- Zero Knowledge Proofs: convince you of a statement w/o learning anything more about the statement (any details)
+- Randomness: adds computational power
+	- Entropy
+	- pseudorandomness: way for randomness to increase on its own
+- Theory of Computation brings significant power to: game theory, comp. complexity, pseudorandomness, etc etc.

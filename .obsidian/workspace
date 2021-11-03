@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "b71ef57a721d726b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd1fe41662bccc6b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6add63dd9a0d1cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "251fbd4d2cba601a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb810a568957078",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e6b4ec2c651776d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "a47b140917f59e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "6741c5f6572d30e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7600af2c9360a22c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8f3edc35a77eec0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26829ececc91fb60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "becbcf3a0ce384c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "active": "fd1fe41662bccc6b",
+  "lastOpenFiles": [
+    "CS 110/Handwritten Lecture Notes/CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).pdf",
+    "PHIL 181/Slides & Handouts/PHIL 181 Slides for Putnam's Meaning and Reference.pdf",
+    "PHIL 181/Readings/Carnap 1956, Empiricism, Semantics, and Ontology.pdf",
+    "CS 110/Image Assets/Screen Shot 2021-10-10 at 12.52.39 PM.png",
+    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
+    "PHIL 181/Readings/Putnam, Meaning and Reference (annotated).pdf",
+    "PHIL 181/PHIL 181 First Essay.md",
+    "PHIL 181/Class Notes/202110271805 PHIL 181 Notes for Penn's OH for Essay 2.md",
+    "PHIL 181/Class Notes/202110190203 PHIL 181 Lecture Notes 2021-10-14 (Kripke pt. I).md",
+    "PHIL 181/Class Notes/2021-09-21 Lecture Notes.pdf"
+  ]
+}
