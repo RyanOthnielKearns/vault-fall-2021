@@ -4,41 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6e1382bf5422e5",
-        "type": "split",
-        "children": [
-          {
-            "id": "fd1fe41662bccc6b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\".pdf"
-              }
-            }
-          },
-          {
-            "id": "74782f71e1be66df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "ef740a0be75af148",
+        "id": "74782f71e1be66df",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
-            "mode": "preview"
+            "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md",
+                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md",
+                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md"
+                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md"
               }
             }
           }
@@ -149,15 +121,15 @@
   },
   "active": "74782f71e1be66df",
   "lastOpenFiles": [
-    "202111040121 PHIL 181 First Grice Reading Reaction.md",
+    "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+    "PHIL 181/Class Notes/2021-10-28 Lecture Notes.pdf",
     "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
+    "202111040121 PHIL 181 First Grice Reading Reaction.md",
     "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\".pdf",
     "PHIL 181/Readings/H.P. Grice 1975, \"Logic and Conversation\".pdf",
     "PHIL 181/202111032337 \"Paul Grice\" SEP Entry Notes.md",
     "PHIL 181/PHIL 181 First Essay.md",
     "202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
-    "Untitled.md",
-    "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
-    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21).md"
+    "Untitled.md"
   ]
 }
