@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+            "file": "202111041332 CS 110 Section 6 Notes (2021-11-04).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+                "file": "202111041332 CS 110 Section 6 Notes (2021-11-04).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+                "file": "202111041332 CS 110 Section 6 Notes (2021-11-04).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md"
+                "file": "202111041332 CS 110 Section 6 Notes (2021-11-04).md"
               }
             }
           }
@@ -121,6 +121,7 @@
   },
   "active": "74782f71e1be66df",
   "lastOpenFiles": [
+    "202111041332 CS 110 Section 6 Notes (2021-11-04).md",
     "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
     "PHIL 181/Class Notes/2021-10-28 Lecture Notes.pdf",
     "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
@@ -129,7 +130,6 @@
     "PHIL 181/Readings/H.P. Grice 1975, \"Logic and Conversation\".pdf",
     "PHIL 181/202111032337 \"Paul Grice\" SEP Entry Notes.md",
     "PHIL 181/PHIL 181 First Essay.md",
-    "202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
-    "Untitled.md"
+    "202110301845 CS 224W Lecture 10 Notes (2021-10-21).md"
   ]
 }
