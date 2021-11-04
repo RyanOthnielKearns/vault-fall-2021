@@ -4,13 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "fd1fe41662bccc6b",
+        "id": "ef6e1382bf5422e5",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd1fe41662bccc6b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\".pdf"
+              }
+            }
+          },
+          {
+            "id": "74782f71e1be66df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "ef740a0be75af148",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
-            "mode": "source"
+            "file": "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
+                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
+                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md"
+                "file": "202111040121 PHIL 181 First Grice Reading Reaction.md"
               }
             }
           }
@@ -119,17 +147,17 @@
     "direction": "horizontal",
     "width": 209.5
   },
-  "active": "fd1fe41662bccc6b",
+  "active": "74782f71e1be66df",
   "lastOpenFiles": [
-    "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
-    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
-    "CS 110/Handwritten Lecture Notes/CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).pdf",
-    "PHIL 181/Slides & Handouts/PHIL 181 Slides for Putnam's Meaning and Reference.pdf",
-    "PHIL 181/Readings/Carnap 1956, Empiricism, Semantics, and Ontology.pdf",
-    "CS 110/Image Assets/Screen Shot 2021-10-10 at 12.52.39 PM.png",
-    "PHIL 181/Readings/Putnam, Meaning and Reference (annotated).pdf",
+    "202111040121 PHIL 181 First Grice Reading Reaction.md",
+    "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
+    "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\".pdf",
+    "PHIL 181/Readings/H.P. Grice 1975, \"Logic and Conversation\".pdf",
+    "PHIL 181/202111032337 \"Paul Grice\" SEP Entry Notes.md",
     "PHIL 181/PHIL 181 First Essay.md",
-    "PHIL 181/Class Notes/202110271805 PHIL 181 Notes for Penn's OH for Essay 2.md",
-    "PHIL 181/Class Notes/202110190203 PHIL 181 Lecture Notes 2021-10-14 (Kripke pt. I).md"
+    "202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
+    "Untitled.md",
+    "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
+    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21).md"
   ]
 }
