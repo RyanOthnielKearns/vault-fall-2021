@@ -7,8 +7,11 @@
         "id": "fd1fe41662bccc6b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 292
   },
   "right": {
     "id": "a47b140917f59e47",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS 224W/202111031634 CS 224W Colab 3 Notes.md"
+              }
             }
           }
         ],
@@ -114,15 +121,15 @@
   },
   "active": "fd1fe41662bccc6b",
   "lastOpenFiles": [
+    "CS 224W/202111031634 CS 224W Colab 3 Notes.md",
+    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
     "CS 110/Handwritten Lecture Notes/CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).pdf",
     "PHIL 181/Slides & Handouts/PHIL 181 Slides for Putnam's Meaning and Reference.pdf",
     "PHIL 181/Readings/Carnap 1956, Empiricism, Semantics, and Ontology.pdf",
     "CS 110/Image Assets/Screen Shot 2021-10-10 at 12.52.39 PM.png",
-    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21).md",
     "PHIL 181/Readings/Putnam, Meaning and Reference (annotated).pdf",
     "PHIL 181/PHIL 181 First Essay.md",
     "PHIL 181/Class Notes/202110271805 PHIL 181 Notes for Penn's OH for Essay 2.md",
-    "PHIL 181/Class Notes/202110190203 PHIL 181 Lecture Notes 2021-10-14 (Kripke pt. I).md",
-    "PHIL 181/Class Notes/2021-09-21 Lecture Notes.pdf"
+    "PHIL 181/Class Notes/202110190203 PHIL 181 Lecture Notes 2021-10-14 (Kripke pt. I).md"
   ]
 }
