@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 110/Assessments/202110051757 CS 110 assign2 Overview Notes.md",
-            "mode": "source"
+            "file": "202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 292,
+    "collapsed": true
   },
   "right": {
     "id": "a47b140917f59e47",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 110/Assessments/202110051757 CS 110 assign2 Overview Notes.md",
+                "file": "202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 110/Assessments/202110051757 CS 110 assign2 Overview Notes.md",
+                "file": "202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 110/Assessments/202110051757 CS 110 assign2 Overview Notes.md"
+                "file": "202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md"
               }
             }
           }
@@ -117,10 +118,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "active": "74782f71e1be66df",
   "lastOpenFiles": [
+    "202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
+    "CS 110/Lecture Notes/202111020116 CS 110 Lecture 12 Notes - Virtual Memory.md",
     "CS 110/Assessments/202110051757 CS 110 assign2 Overview Notes.md",
     "CS 110/Assessments/202110101533 CS 110 Assessment 1 Practice.md",
     "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
@@ -128,8 +132,6 @@
     "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21) 1.md",
     "202110080025 Plan for Tomorrow (2021-10-09).md",
     "Screen Shot 2021-10-10 at 12.52.39 PM.png",
-    "PHIL 181/Reading Reactions/202111040121 PHIL 181 First Grice Reading Reaction.md",
-    "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
-    "PHIL 181/Class Notes/2021-10-28 Lecture Notes.pdf"
+    "PHIL 181/Reading Reactions/202111040121 PHIL 181 First Grice Reading Reaction.md"
   ]
 }
