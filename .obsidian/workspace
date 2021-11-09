@@ -1,18 +1,38 @@
 {
   "main": {
-    "id": "b71ef57a721d726b",
+    "id": "348cff5b8c53b56a",
     "type": "split",
     "children": [
       {
-        "id": "4d354ae2a84de399",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202111090904 Stanford HAI 2021 Fall Conference Day 1 Notes.md",
-            "mode": "preview"
+        "id": "36eacd536ab273b1",
+        "type": "split",
+        "children": [
+          {
+            "id": "654705184282ec84",
+            "type": "leaf",
+            "dimension": 72.76315789473684,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "9dffb74726df1ed2",
+            "type": "leaf",
+            "dimension": 27.236842105263158,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Evans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111090904 Stanford HAI 2021 Fall Conference Day 1 Notes.md",
+                "file": "202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202111090904 Stanford HAI 2021 Fall Conference Day 1 Notes.md",
+                "file": "202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202111090904 Stanford HAI 2021 Fall Conference Day 1 Notes.md"
+                "file": "202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md"
               }
             }
           }
@@ -119,17 +139,17 @@
     "direction": "horizontal",
     "width": 209.5
   },
-  "active": "4d354ae2a84de399",
+  "active": "654705184282ec84",
   "lastOpenFiles": [
-    "202111090904 Stanford HAI 2021 Fall Conference Day 1 Notes.md",
-    "Untitled.md",
-    "PHIL 181/Slides & Handouts/Grice Meaning Slides.pdf",
-    "PHIL 181/Reading Reactions/202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
+    "202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
+    "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+    "PHIL 181/Slides & Handouts/2021-09-30 Slides for Russell's \"On Denoting\".pdf",
+    "PHIL 181/Frege, \"On Sense and Nominatum\" - Reading Notes.md",
+    "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
+    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md",
     "PHIL 181/Readings/H.P. Grice 1975, \"Logic and Conversation\".pdf",
     "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
-    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md",
-    "PHIL 181/Reading Reactions/202111040121 PHIL 181 First Grice Reading Reaction.md",
-    "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf",
-    "CS 110/Lecture Slides/Lecture 16 Slides - Multithreading and Networking.pdf"
+    "202110080025 Plan for Tomorrow (2021-10-09).md",
+    "Screen Shot 2021-10-10 at 12.52.39 PM.png"
   ]
 }
