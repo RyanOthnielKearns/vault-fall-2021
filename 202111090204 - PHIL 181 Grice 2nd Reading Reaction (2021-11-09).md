@@ -1,0 +1,4 @@
+#PHIL181 #philosophy #reaction
+*Prompt*: How does Grice’s task here connect with his task in “Meaning”? The piece is framed by what Grice regards as a case of dubious philosophical methodology: arguing from differences in the _use_ of logical connectives and their English counterparts to a difference in their _literal meaning_. On Grice’s theory of cooperative constraints on conversation, how can we determine whether two expressions have the same literal meaning? Study Grice’s accounts of particular examples of what he considers “conversational implicatures”, including cases of metaphor and irony. Are his “deductions” plausible reconstructions of how hearers actually figure out what speakers are getting at?
+___
+#TODO

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "74782f71e1be66df",
+        "id": "eaf96988b6fdbb66",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 110/Lecture Notes/202111071815 CS 110 Lecture 18 Notes - Multithreading Wrap, Ice Cream Parlors (2021-11-01).md",
+            "file": "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
             "mode": "preview"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292,
-    "collapsed": true
+    "width": 292
   },
   "right": {
     "id": "a47b140917f59e47",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 110/Lecture Notes/202111071815 CS 110 Lecture 18 Notes - Multithreading Wrap, Ice Cream Parlors (2021-11-01).md",
+                "file": "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 110/Lecture Notes/202111071815 CS 110 Lecture 18 Notes - Multithreading Wrap, Ice Cream Parlors (2021-11-01).md",
+                "file": "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 110/Lecture Notes/202111071815 CS 110 Lecture 18 Notes - Multithreading Wrap, Ice Cream Parlors (2021-11-01).md"
+                "file": "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md"
               }
             }
           }
@@ -120,17 +119,17 @@
     "direction": "horizontal",
     "width": 209.5
   },
-  "active": "74782f71e1be66df",
+  "active": "eaf96988b6fdbb66",
   "lastOpenFiles": [
+    "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
+    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md",
+    "PHIL 181/Readings/H.P. Grice 1975, \"Logic and Conversation\".pdf",
+    "PHIL 181/202111040034 H.P. Grice 1957, \"Meaning\" - Reading Notes.md",
+    "202110080025 Plan for Tomorrow (2021-10-09).md",
+    "Screen Shot 2021-10-10 at 12.52.39 PM.png",
     "CS 110/Lecture Notes/202111071815 CS 110 Lecture 18 Notes - Multithreading Wrap, Ice Cream Parlors (2021-11-01).md",
     "CS 110/Multithreading and Synchronization Redux.pdf",
     "CS 110/Lecture Notes/202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
-    "CS 110/Lecture Notes/CS 110 - LEC 1 Notes.md",
-    "CS 110/Lecture Notes/202111020116 CS 110 Lecture 12 Notes - Virtual Memory.md",
-    "CS 110/Assessments/202110051757 CS 110 assign2 Overview Notes.md",
-    "CS 110/Assessments/202110101533 CS 110 Assessment 1 Practice.md",
-    "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
-    "CS 110/Section Notes/202111041332 CS 110 Section 6 Notes (2021-11-04).md",
-    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21) 1.md"
+    "CS 110/Lecture Notes/CS 110 - LEC 1 Notes.md"
   ]
 }
