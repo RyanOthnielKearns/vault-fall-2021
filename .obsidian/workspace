@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "b71ef57a721d726b",
+    "id": "348cff5b8c53b56a",
     "type": "split",
     "children": [
       {
-        "id": "ebaf1d74894c4bad",
+        "id": "654705184282ec84",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
+            "file": "202111111336 CS 110 Section 7 Notes.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Evans",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292,
-    "collapsed": true
+    "width": 292
   },
   "right": {
     "id": "a47b140917f59e47",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
+                "file": "202111111336 CS 110 Section 7 Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
+                "file": "202111111336 CS 110 Section 7 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md"
+                "file": "202111111336 CS 110 Section 7 Notes.md"
               }
             }
           }
@@ -120,17 +119,17 @@
     "direction": "horizontal",
     "width": 209.5
   },
-  "active": "ebaf1d74894c4bad",
+  "active": "654705184282ec84",
   "lastOpenFiles": [
-    "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
-    "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
-    "CS 224W/Lecture Notes/202110301845 CS 224W Lecture 10 Notes (2021-10-21) 1.md",
-    "CS 110/Lecture Slides/Lecture 15 Slides - Multithreading, Condition Variables, and Semaphores.pdf",
-    "CS 110/Lecture Slides/Lecture 16 Slides - Multithreading and Networking.pdf",
-    "CS 110/Lecture Slides/Lecture 11 Slides - Signals, Take II.pdf",
-    "CS 110/Multithreading and Synchronization Redux.pdf",
-    "CS 110/Lecture Notes/202111071815 CS 110 Lecture 18 Notes - Multithreading Wrap, Ice Cream Parlors (2021-11-01).md",
-    "CS 110/Lecture Notes/202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
-    "202111100904 Stanford HAI 2021 Fall Conference - Day 2 Notes.md"
+    "202111111336 CS 110 Section 7 Notes.md",
+    "PHIL 181/Class Notes/202111111132 PHIL 181 Lecture Notes - Conversational Implicature and Conventionality of Language (2021-11-11).md",
+    "Books/Alexis Burgess, Herman Cappelen, and David Plunkett - Conceptual Engineering and Conceptual Ethics (2020).pdf",
+    "202111111204 Things I want to look up.md",
+    "PHIL 181/Class Notes/202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
+    "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+    "PHIL 181/Slides & Handouts/2021-09-30 Slides for Russell's \"On Denoting\".pdf",
+    "PHIL 181/Frege, \"On Sense and Nominatum\" - Reading Notes.md",
+    "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
+    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md"
   ]
 }
