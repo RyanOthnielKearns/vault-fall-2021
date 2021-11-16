@@ -7,10 +7,9 @@
         "id": "654705184282ec84",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "202111111336 CS 110 Section 7 Notes.md",
-            "mode": "source"
+            "file": "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Evans",
+                "query": "condition_var",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 327
   },
   "right": {
     "id": "a47b140917f59e47",
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111111336 CS 110 Section 7 Notes.md",
+                "file": "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202111111336 CS 110 Section 7 Notes.md",
+                "file": "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202111111336 CS 110 Section 7 Notes.md"
+                "file": "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf"
               }
             }
           }
@@ -117,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "active": "654705184282ec84",
   "lastOpenFiles": [
-    "202111111336 CS 110 Section 7 Notes.md",
-    "PHIL 181/Class Notes/202111111132 PHIL 181 Lecture Notes - Conversational Implicature and Conventionality of Language (2021-11-11).md",
-    "Books/Alexis Burgess, Herman Cappelen, and David Plunkett - Conceptual Engineering and Conceptual Ethics (2020).pdf",
-    "202111111204 Things I want to look up.md",
-    "PHIL 181/Class Notes/202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
-    "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
-    "PHIL 181/Slides & Handouts/2021-09-30 Slides for Russell's \"On Denoting\".pdf",
-    "PHIL 181/Frege, \"On Sense and Nominatum\" - Reading Notes.md",
-    "202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
-    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md"
+    "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf",
+    "CS 110/Lecture Slides/Lecture 18 Slides - Multithreading Wrap, Ice Cream Parlors.pdf",
+    "CS 110/Lecture Notes/202111151356 CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).md",
+    "CS 110/Lecture Slides/Lecture 15 Slides - Multithreading, Condition Variables, and Semaphores.pdf",
+    "CS 110/Lecture Slides/Lecture 14 Slides - Threads, Deadlock, Condition Variables.pdf",
+    "CS 110/Lecture Notes/202111151419 CS 110 Lecture 16 Notes - Multithreading and Networking (2021-10-27).md",
+    "CS 110/Lecture Notes/202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md",
+    "CS 110/Lecture Notes/202111151222 CS 110 Lecture 14 Notes - Threads, Deadlock, Condition Variables (2021-10-22).md",
+    "CS 110/Multithreading and Synchronization Redux.pdf",
+    "CS 110/Assessments/202111151644 CS 110 Assessment 3 Prep.md"
   ]
 }
