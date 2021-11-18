@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 7 Slides - Understanding execvp.pdf|slides]] and [[2021-10-04 Lecture Notes.pdf|handwritten notes]]
 # Process Transformation
 ## `simplesh`

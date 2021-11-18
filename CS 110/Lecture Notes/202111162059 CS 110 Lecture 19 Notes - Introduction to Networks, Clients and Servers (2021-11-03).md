@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 19 Slides - Introduction to Networks, Clients and Servers.pdf|lecture slides]]
 ___
 Today: **networking**

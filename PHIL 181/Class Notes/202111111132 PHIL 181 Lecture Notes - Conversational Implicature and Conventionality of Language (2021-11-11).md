@@ -1,4 +1,4 @@
-#PHIL181 #philosophy #philosophy-of-language #lecture-notes 
+#PHIL181 #philosophy #philosophy-of-language #lecture-notes #Stanford #Stanford-Fall-2021 
 2021-11-11
 ___
 - not quite right to paint Grice as a metaphysician, but this is nonetheless what he's capturing

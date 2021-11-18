@@ -1,4 +1,4 @@
-#PHIL181 #philosophy #philosophy-of-language #lecture-notes 
+#PHIL181 #philosophy #philosophy-of-language #lecture-notes #Stanford #Stanford-Fall-2021 
 Discussed: [[202111032337 "Paul Grice" SEP Entry Notes|Grice]], #Russell, #Frege, #reductivism
 ___
 # Grice

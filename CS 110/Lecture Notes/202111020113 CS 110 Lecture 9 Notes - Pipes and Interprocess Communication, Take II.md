@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 9 Slides - Pipes and Interprocess Communication, Take II.pdf|slides]] and [[2021-10-08 Lecture Notes.pdf|handwritten notes]]
 # Interprocess Communication, Cont.
 ## `dup`

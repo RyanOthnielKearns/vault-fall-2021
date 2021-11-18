@@ -1,3 +1,5 @@
+#PHIL181 #philosophy #lecture-notes #Stanford #Stanford-Fall-2021 
+___
 # Kripke
 ## Contributions to logic
 - huge effect on metaphysics / epistemology / philosophy of language

@@ -1,3 +1,4 @@
+#Stanford #Stanford-HAI #Stanford-Fall-2021 
 # Policy & AI: Four Radical Proposals for a Better Society
 ## Introduction
 ### [Erik Brynjolfsson](https://hai.stanford.edu/people/erik-brynjolfsson)

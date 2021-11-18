@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 5 Slides - Multiprocessing Basics.pdf|slides]] and [[2021-09-29 Lecture Notes.pdf|handwritten notes]]
 2021-09-29
 ___

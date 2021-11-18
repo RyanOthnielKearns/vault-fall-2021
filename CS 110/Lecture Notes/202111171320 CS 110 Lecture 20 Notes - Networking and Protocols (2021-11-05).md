@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 20 Slides - Networking and Protocols.pdf|slides]]
 ___
 # Simple Networking Code Examples

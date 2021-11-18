@@ -1,4 +1,4 @@
-#essay #PHIL181 #philosophy 
+#essay #PHIL181 #philosophy #Stanford #Stanford-Fall-2021 
 *Prompt*: Clarify and evaluate either Russell's chief objection to Meinong (to do with the law of non-contradiction) or one of his objections to Frege (e.g., the Grey's Elegy argument or the argument from nondenoting descriptions in the consequents of true conditionals -- "If Ferdinand is not drowned, Ferdinand is my only son").
 *Word Count*: ~1500
 ___

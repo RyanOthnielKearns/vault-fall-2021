@@ -1,4 +1,4 @@
-#conference #AI #artificial-intelligence #Stanford-HAI
+#conference #AI #artificial-intelligence #Stanford-HAI #Stanford #Stanford-Fall-2021 
 ___
 # High-Level Agenda
 Panels yesterday:

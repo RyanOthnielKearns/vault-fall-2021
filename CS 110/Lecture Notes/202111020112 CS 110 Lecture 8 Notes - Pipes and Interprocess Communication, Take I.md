@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 8 Slides - Pipes and Interprocess Communication, Take I.pdf|slides]] and [[2021-10-06 Lecture Notes.pdf|handwritten notes]]
 # `pipe`
 - from [[202111020111 CS 110 Lecture 7 Notes - Understanding execvp|last lecture notes]], too

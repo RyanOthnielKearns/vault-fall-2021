@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 # Overview
 - discussing Unix v6 file system design principles
 	- assign2 is a variant of it

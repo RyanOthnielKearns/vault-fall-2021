@@ -1,4 +1,4 @@
-#PHIL181 #philosophy #philosophy-of-language #lecture-notes 
+#PHIL181 #philosophy #philosophy-of-language #lecture-notes #Stanford #Stanford-Fall-2021 
 Discussed: #Wittgenstein, [[202111032337 "Paul Grice" SEP Entry Notes|Grice]], #Russell #Carnap #Quine #logical-positivism #empiricism
 - [[H.P. Grice 1957, "Meaning".pdf]]
 ___

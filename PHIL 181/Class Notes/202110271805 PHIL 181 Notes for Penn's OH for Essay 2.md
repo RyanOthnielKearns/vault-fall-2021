@@ -1,4 +1,4 @@
-#office-hours #PHIL181 #philosophy 
+#office-hours #PHIL181 #philosophy #Stanford #Stanford-Fall-2021 #philosophy-of-language #essay 
 I think I'm the most interested in Putnam's "Twin Earth" arguments for the meaning <> psychological state distinction in his paper "Meaning and Reference," but I'd ideally like to hone my prompt into something more specific than "explain and assess." For one thing, I don't love Putnam's example in his systematically swapping out a natural kind like water for a thought experiment that's intended to be intuitive. I think that part of Putnam's insistence that "water was H2O in 1750 as well as 1950" has to hinge on the compositional properties of water that so integrate it with other molecular structures. First, this Twin Earth experiment is just plainly unintuitive for me for this reason, since the molecular structure of water is *relevant* for its interactions with other substances that would be noticeable to a nonexpert observer -- think solubility as an example.
 
 1. Twin Earth is supposed to be "exactly" like Earth

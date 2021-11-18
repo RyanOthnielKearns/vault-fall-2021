@@ -1,4 +1,4 @@
-#CS #CS224W #lecture-notes 
+#CS #CS224W #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 11 - Reasoning Over Knowledge Graphs.pdf|slides]]
 # "Reasoning Over Knowledge Graphs"
 2021-10-26

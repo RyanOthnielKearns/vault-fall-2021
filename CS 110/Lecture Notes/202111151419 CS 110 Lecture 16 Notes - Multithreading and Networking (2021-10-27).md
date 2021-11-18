@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 16 Slides - Multithreading and Networking.pdf|slides]] and [[CS 110 Lecture 16 Notes - Multithreading and Networking (2021-10-27).pdf|handwritten notes]]
 2021-10-27
 ___

@@ -7,8 +7,11 @@
         "id": "654705184282ec84",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHIL 181/Reading Reactions/202111160951 Kripkenstein First Reaction.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHIL 181/Reading Reactions/202111160951 Kripkenstein First Reaction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PHIL 181/Reading Reactions/202111160951 Kripkenstein First Reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PHIL 181/Reading Reactions/202111160951 Kripkenstein First Reaction.md"
+              }
             }
           }
         ],
@@ -114,15 +121,15 @@
   },
   "active": "654705184282ec84",
   "lastOpenFiles": [
-    "Those spots mean (meant) measles.\" (Page 2).md",
-    "CS 224W/Lecture Notes/202111181225 CS 224W Lecture 13 Notes - GNNs for Recommender Systems (2021-11-04).md",
-    "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\" test.pdf",
-    "Highlights for H.P. Grice 1957, \"Meaning\" test.md",
-    "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\".pdf",
-    "Highlights for H.P. Grice 1957, \"Meaning\".md",
-    "PHIL 181/Readings/Kripke Exerpts from Wittgenstein on Rules and Private Language.pdf",
-    "PHIL 181/Class Notes/202110271805 PHIL 181 Notes for Penn's OH for Essay 2.md",
-    "PHIL 181/Class Notes/202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
-    "PHIL 181/Class Notes/2021-09-21 Lecture Notes.pdf"
+    "PHIL 181/Reading Reactions/202111160951 Kripkenstein First Reaction.md",
+    "PHIL 181/Reading Reactions/First Russell Reaction.md",
+    "CS 110/Assessments/202111151644 CS 110 Assessment 3 Prep.md",
+    "202110080025 Plan for Tomorrow (2021-10-09).md",
+    "PHIL 181/Reading Reactions/202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
+    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md",
+    "PHIL 181/Essays/PHIL 181 First Essay.md",
+    "PHIL 181/Class Notes/202111041129 PHIL 181 Lecture Notes - Grice on (Speaker Occasion) Meaning (2021-11-04).md",
+    "CS 110/Section Notes/202111111336 CS 110 Section 7 Notes.md",
+    "CS 110/Section Notes/202111041332 CS 110 Section 6 Notes (2021-11-04).md"
   ]
 }

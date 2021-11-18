@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 6 Slides - Process Synchronization and Transformation.pdf|slides]] and [[2021-10-01 Lecture Notes.pdf|handwritten notes]]
 2021-10-01
 ___

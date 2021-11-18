@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 13 Slides - Threads and Mutexes.pdf|slides]] and [[2021-10-20 Lecture Notes.pdf|handwritten notes]]
 2021-10-20
 ___

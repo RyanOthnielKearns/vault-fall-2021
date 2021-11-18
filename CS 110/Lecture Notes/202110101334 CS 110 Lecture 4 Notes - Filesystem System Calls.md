@@ -1,4 +1,4 @@
-#CS #CS110 #lecture-notes 
+#CS #CS110 #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 4 Slides - Filesystem System Calls.pdf|slides]] and [[2021-09-27 Lecture Notes.pdf|handwritten notes]]
 ___
 # Unix Filesystems

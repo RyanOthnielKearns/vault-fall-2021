@@ -1,4 +1,4 @@
-#CS110 #CS #lecture-notes 
+#CS110 #CS #lecture-notes #Stanford #Stanford-Fall-2021 
 See [[Lecture 15 Slides - Multithreading, Condition Variables, and Semaphores.pdf|slides]] and [[CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).pdf|handwritten notes]]
 2021-10-25
 ___
