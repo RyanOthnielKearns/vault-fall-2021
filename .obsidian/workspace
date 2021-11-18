@@ -7,11 +7,8 @@
         "id": "654705184282ec84",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -121,15 +114,15 @@
   },
   "active": "654705184282ec84",
   "lastOpenFiles": [
-    "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
-    "202110080025 Plan for Tomorrow (2021-10-09).md",
-    "202111161132 PHIL 181 Lecture Notes (2021-11-16).md",
-    "202111171828 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
-    "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
-    "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md",
-    "CS 110/Lecture Notes/202111162059 CS 110 Lecture 19 Notes - Introduction to Networks, Clients and Servers (2021-11-03).md",
-    "CS 110/Lecture Notes/202110101325 CS 110 Lecture 3 Notes - Filesystems, Take II (2021-09-24).md",
-    "CS 110/Lecture Slides/Lecture 17 Slides - Threading and Threadpools.pdf",
-    "CS 110/Lecture Slides/Lecture 18 Slides - Multithreading Wrap, Ice Cream Parlors.pdf"
+    "Those spots mean (meant) measles.\" (Page 2).md",
+    "CS 224W/Lecture Notes/202111181225 CS 224W Lecture 13 Notes - GNNs for Recommender Systems (2021-11-04).md",
+    "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\" test.pdf",
+    "Highlights for H.P. Grice 1957, \"Meaning\" test.md",
+    "PHIL 181/Readings/H.P. Grice 1957, \"Meaning\".pdf",
+    "Highlights for H.P. Grice 1957, \"Meaning\".md",
+    "PHIL 181/Readings/Kripke Exerpts from Wittgenstein on Rules and Private Language.pdf",
+    "PHIL 181/Class Notes/202110271805 PHIL 181 Notes for Penn's OH for Essay 2.md",
+    "PHIL 181/Class Notes/202111091129 PHIL 181 Lecture Notes - Grice Pt. II (2021-11-09).md",
+    "PHIL 181/Class Notes/2021-09-21 Lecture Notes.pdf"
   ]
 }
