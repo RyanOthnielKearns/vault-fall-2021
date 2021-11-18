@@ -95,13 +95,97 @@ $$SP_i = Z_i / \sqrt{\sum_j Z_j^2}$$
 - a vector of normalized Z-scores
 	- dimension depends on number of motifs considered
 - $SP$ emphasizes relative significance of subgraphs
+- networks from the same domain have the same significance profile
 
-==stopped here at 39:25==
+### Variations on Motif Concept
+- directed vs. undirected
+- colored vs. uncolored
+- temportal and static motifs
+- under-representation (*anti-motifs*)
+
 
 # Neural Subgraph Representations
+- one way to count subgraphs: exhaustively count all ways
+	- kind of cumbersome!
+	- can we use a neural network to identify faster?
+
+## Subgraph Matching
+- given large *target* graph, and connected *query* graph:
+	- is the *query* graph a *subgraph* of the target?
+- use GNN to predict subgraph isomorphism
+	- intuition: exploit *geometric shape* of the embedding space to capture subgraph isomorphism
+
+### Task
+*binary prediction*: true if query is isomorphic to a subgraph of the target
+- not worried about discovering the exact mapping, node-by-node
+- decompose large target graph into small neighborhoods
+- embed query graph, and neighborhoods, and for each neighborhood use embeddings to predict the subgraph relation
+
+### Neural Architecture
+1. Use **anchor node**
+	- connect anchor nodes, then connect each other node and see if you maintain the same connections
+	- recall *node-level frequency definition* in [[202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28)#Subgraph Frequency|Subgraph Frequency]]
+	- use embeddings to decide isomorphism around nodes' neighborhoods
+	- can also identify the corresponding *nodes* when we predict isomorphism
+2. Use node-anchored **neighborhoods**
+	- for each node in target graph, cut a piece that also has the anchor node --> neighborhoods around anchors
+	- for each node in $G_T$: obtain $k$-hop neighborhood around the anchor
+		- performed using BFS
+	- embed the neighborhoods using a GNN (by computing the embeddings for the anchor nodes in their respective neighborhoods)
+3. Use GNN to create embeddings for $u$ and $v$ -- predict if their neighborhoods are isomorphic
+
+## Order Embedding Space
+map graph $A$ to point $z_A$ in high-dim space, *non-negative* in all dimensions
+- capture partial ordering (transitivity)
+	- intuition: subgraph is to the "lower-left" of its supergraph (in 2D)
+- $z_{A_1}\preccurlyeq z_{A_2}$ means element-wise less than
+
+- subgraph isomorphism relationship is nicely encoded in this space
+	- transivitiy
+	- anti-symmetry: if two graphs are subgraphs of one another, they are isomorphic (and have same embedding point)
+	- closure under intersection (graph of 1 node is always a subgraph of any graph -- embedding is $\mathbf{0}$)
+
+### Order Constraint
+- enforce ordering structure
+- define loss function based on the **order constraint**: ideal order embedding property that reflects subgraph relationships
+$$\forall_{i=1}^D z_q[i]\leq z_u[i]\text{ iff }G_Q\subseteq G_U$$
+- GNN embeddings learned by minimizing a **max-margin** loss
+	- margin: $E(G_q, G_t) = \sum_{i=1}^D(\max(0, z_q[i]-z_t[i]))^2$
+		- we want $E(G_q, G_t)=0$ when $G_q$ is a subgraph of $G_t$, and $>0$ when not
+
+## Training Neural Subgraph Matching
+- construct training examples $(G_q, G_t)$ (half positive, half negative examples)
+	- minimize margin for positive examples
+	- minimize $\max(0, \alpha - E(G_q, G_t))$ for negative examples
+		- prevents model from trivializing optimizing by just pushing all embeddings really far apart
+
+## Subgraph Predictions
+- if $E(G_q, G_t)<\varepsilon$ predict "True", else "False" (where $\varepsilon$ is a hyperparameter)
+	- to check if $G_q$ is actually isomorphic to a subgraph of $G_t$, repeat for all nodes in $G_q$ as anchor
+
 # Mining Frequent Subgraphs
+finding size-$k$ motifs:
+1. **enumerating** all size-$k$ motifs
+	- soln.: use GNN to predict subgraph frequency
+2. **counting** all occurrences
+
+- computationally hard! NP-hard
+	- solve w/ *representation learning*
+
 ## Subgraph Frequency
 **Graph-level subgraph frequency** = number of unique subsets of nodes for which the subgraph induced by the nodes is isomorphic to the motif of interest
 - Frequency of $G_Q$ in $G_T$ (query and target)
 
 **Node-level subgraph frequency definition**: number of nodes in target graph for which some subgraph is isomorphic to the query graph and the node is present... ==look at slides for more precise definition==
+
+## SPMiner
+a neural model to identify frequent motifs
+
+take input --> decompose --> encode --> search procedure (find frequent subgraphs by growing patterns)
+
+**key benefit of order embeddings**: just embed a graph and ask "how many graphs are embedded to the top right of me?" --> these are supergraphs if we assume the ordering constraint
+- estimate frequency of $G_Q$ by counting number of $G_{N_i}$ s.t. embeddings $z_{N_i}$ satisfy $z_Q\preccurlyeq z_{N_i}$
+
+- SPMiner search procedure: start with a starting node $u$ in target graph and do "motif walk"
+	- add an edge, embed that, and see where you move in the embedding space --> frequency of that new subgraph is the number of graphs embedded to the "top-right" of it
+	- grow the motif to find larger frequent subgraphs!
