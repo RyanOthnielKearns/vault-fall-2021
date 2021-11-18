@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md",
-            "mode": "source"
+            "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md",
+                "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md",
+                "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md"
+                "file": "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md"
               }
             }
           }
@@ -122,6 +122,8 @@
   },
   "active": "654705184282ec84",
   "lastOpenFiles": [
+    "CS 224W/Lecture Notes/202111041514 CS 224W Lecture 11 Notes - Reasoning Over Knowledge Graphs (2021-10-26).md",
+    "CS 224W/Lecture Notes/202111102213 CS 224W Lecture 12 Notes - Frequent Subgraph Mining with GNNs (2021-10-28).md",
     "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md",
     "CS 110/Lecture Notes/202111162059 CS 110 Lecture 19 Notes - Introduction to Networks, Clients and Servers (2021-11-03).md",
     "CS 110/Lecture Notes/202110101325 CS 110 Lecture 3 Notes - Filesystems, Take II (2021-09-24).md",
@@ -129,8 +131,6 @@
     "CS 110/Lecture Slides/Lecture 18 Slides - Multithreading Wrap, Ice Cream Parlors.pdf",
     "CS 110/Lecture Notes/202111151356 CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).md",
     "CS 110/Lecture Slides/Lecture 15 Slides - Multithreading, Condition Variables, and Semaphores.pdf",
-    "CS 110/Lecture Slides/Lecture 14 Slides - Threads, Deadlock, Condition Variables.pdf",
-    "CS 110/Lecture Notes/202111151419 CS 110 Lecture 16 Notes - Multithreading and Networking (2021-10-27).md",
-    "CS 110/Lecture Notes/202111071723 CS 110 Lecture 17 Notes - Threading and Threadpools (2021-10-29).md"
+    "CS 110/Lecture Slides/Lecture 14 Slides - Threads, Deadlock, Condition Variables.pdf"
   ]
 }
