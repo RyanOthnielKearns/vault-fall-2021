@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 224W/Lecture Notes/202111182205 CS 224W Lecture 14 Notes - Community Structure in Networks (2021-11-09).md",
+            "file": "202111190950 CS 224W Exam Review Notes.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111182205 CS 224W Lecture 14 Notes - Community Structure in Networks (2021-11-09).md",
+                "file": "202111190950 CS 224W Exam Review Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111182205 CS 224W Lecture 14 Notes - Community Structure in Networks (2021-11-09).md",
+                "file": "202111190950 CS 224W Exam Review Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 224W/Lecture Notes/202111182205 CS 224W Lecture 14 Notes - Community Structure in Networks (2021-11-09).md"
+                "file": "202111190950 CS 224W Exam Review Notes.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "04a6615d44373e9d",
   "lastOpenFiles": [
+    "202111190950 CS 224W Exam Review Notes.md",
     "CS 224W/Lecture Notes/202111182205 CS 224W Lecture 14 Notes - Community Structure in Networks (2021-11-09).md",
     "CS 224W/Lecture Notes/202111181225 CS 224W Lecture 13 Notes - GNNs for Recommender Systems (2021-11-04).md",
     "CS 224W/Lecture Notes/202110182307 CS 224W Lecture 7 Notes (2021-10-12).md",
@@ -130,7 +131,6 @@
     "PHIL 181/Reading Reactions/First Russell Reaction.md",
     "CS 110/Assessments/202111151644 CS 110 Assessment 3 Prep.md",
     "202110080025 Plan for Tomorrow (2021-10-09).md",
-    "PHIL 181/Reading Reactions/202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md",
-    "PHIL 181/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md"
+    "PHIL 181/Reading Reactions/202111090204 - PHIL 181 Grice 2nd Reading Reaction (2021-11-09).md"
   ]
 }
