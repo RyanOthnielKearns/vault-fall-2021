@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 110/Lecture Notes/202111281110 CS 110 Lecture 21 Notes - Networks, Servers, System Calls (2021-11-08).md",
-            "mode": "source"
+            "file": "CS 110/Lecture Notes/202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10).md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 110/Lecture Notes/202111281110 CS 110 Lecture 21 Notes - Networks, Servers, System Calls (2021-11-08).md",
+                "file": "CS 110/Lecture Notes/202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS 110/Lecture Notes/202111281110 CS 110 Lecture 21 Notes - Networks, Servers, System Calls (2021-11-08).md",
+                "file": "CS 110/Lecture Notes/202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 110/Lecture Notes/202111281110 CS 110 Lecture 21 Notes - Networks, Servers, System Calls (2021-11-08).md"
+                "file": "CS 110/Lecture Notes/202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10).md"
               }
             }
           }
@@ -123,15 +123,15 @@
   },
   "active": "04a6615d44373e9d",
   "lastOpenFiles": [
+    "CS 110/Lecture Notes/202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10).md",
     "CS 110/Lecture Notes/202111281110 CS 110 Lecture 21 Notes - Networks, Servers, System Calls (2021-11-08).md",
-    "CS 110/Lecture Slides/Lecture 20 Slides - Networking and Protocols.pdf",
     "CS 110/Lecture Slides/Lecture 21 Slides - Networks, Servers, System Calls.pdf",
+    "CS 110/Lecture Slides/Lecture 22 Slides - More Network System Calls.pdf",
+    "CS 110/Lecture Slides/Lecture 20 Slides - Networking and Protocols.pdf",
     "CS 110/Lecture Notes/202111171320 CS 110 Lecture 20 Notes - Networking and Protocols (2021-11-05).md",
     "Books/Notes/202111271831 Andy Clark, Supersizing the Mind - Reading Notes.md",
     "CS 224W/202111190950 CS 224W Exam Review Notes.md",
     "CS 224W/Lecture Notes/202111182205 CS 224W Lecture 14 Notes - Community Structure in Networks (2021-11-09).md",
-    "CS 224W/Lecture Notes/202111181225 CS 224W Lecture 13 Notes - GNNs for Recommender Systems (2021-11-04).md",
-    "CS 224W/Lecture Notes/202110182307 CS 224W Lecture 7 Notes (2021-10-12).md",
-    "CS 224W/Lecture Slides/Lecture 7 - Graph Neural Networks 2 - Design Space.pdf"
+    "CS 224W/Lecture Notes/202111181225 CS 224W Lecture 13 Notes - GNNs for Recommender Systems (2021-11-04).md"
   ]
 }

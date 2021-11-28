@@ -106,4 +106,4 @@ static void publishScrabbleWords(int client) {
 		- also requries cache lock! `mutex cacheLock;`
 	- code is in the [[Lecture 21 Slides - Networks, Servers, System Calls.pdf|slides]]
 
-Next time: system calls that ship with Linux for doing this stuff (`createClientSocket` is something Jerry wrote for CS110...)
+[[202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10)|Next time]]: system calls that ship with Linux for doing this stuff (`createClientSocket` is something Jerry wrote for CS110...)
