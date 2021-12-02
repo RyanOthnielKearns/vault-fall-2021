@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PHIL 181/Reading Notes/202111292302 Elisabeth Camp 2013, \"Slurring Perspectives\" - Reading Notes.md",
+            "file": "PHIL 181/Lecture Notes/202111301132 PHIL 181 Lecture Notes - Camp on Slurs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHIL 181/Reading Notes/202111292302 Elisabeth Camp 2013, \"Slurring Perspectives\" - Reading Notes.md",
+                "file": "PHIL 181/Lecture Notes/202111301132 PHIL 181 Lecture Notes - Camp on Slurs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHIL 181/Reading Notes/202111292302 Elisabeth Camp 2013, \"Slurring Perspectives\" - Reading Notes.md",
+                "file": "PHIL 181/Lecture Notes/202111301132 PHIL 181 Lecture Notes - Camp on Slurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHIL 181/Reading Notes/202111292302 Elisabeth Camp 2013, \"Slurring Perspectives\" - Reading Notes.md"
+                "file": "PHIL 181/Lecture Notes/202111301132 PHIL 181 Lecture Notes - Camp on Slurs.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "04a6615d44373e9d",
   "lastOpenFiles": [
-    "PHIL 181/Reading Notes/202111292302 Elisabeth Camp 2013, \"Slurring Perspectives\" - Reading Notes.md",
-    "PHIL 181/Reading Notes/Frege, \"On Sense and Nominatum\" - Reading Notes.md",
-    "PHIL 181/Reading Notes/202111292300 Elisabeth Camp 2018, \"A Dual Act Analysis of Slurs\" - Reading Notes.md",
-    "PHIL 181/Reading Notes/202111090020 H.P. Grice 1975, \"Logic and Conversation\" - Reading Notes.md",
-    "202111281303 CS 110 Lecture 23 Notes - Overview of MapReduce (2021-11-15).md",
+    "PHIL 181/Lecture Notes/202111301132 PHIL 181 Lecture Notes - Camp on Slurs.md",
+    "202111301150.md",
+    "CS 224W/202111191140 CS 224W Glossary & Index for Final Exam (2021-11-19).md",
+    "CS 110/Lecture Notes/202111281303 CS 110 Lecture 23 Notes - Overview of MapReduce (2021-11-15).md",
     "CS 110/Handwritten Lecture Notes/CS 110 Lecture 15 Notes - Multithreading, Condition Variables, and Semaphores (2021-10-25).pdf",
     "CS 110/Lecture Notes/202111281201 CS 110 Lecture 22 Notes - More Network System Calls (2021-11-10).md",
     "CS 110/Lecture Notes/202111281110 CS 110 Lecture 21 Notes - Networks, Servers, System Calls (2021-11-08).md",
     "CS 110/Lecture Slides/Lecture 21 Slides - Networks, Servers, System Calls.pdf",
-    "CS 110/Lecture Slides/Lecture 22 Slides - More Network System Calls.pdf"
+    "CS 110/Lecture Slides/Lecture 22 Slides - More Network System Calls.pdf",
+    "CS 110/Lecture Slides/Lecture 20 Slides - Networking and Protocols.pdf"
   ]
 }
