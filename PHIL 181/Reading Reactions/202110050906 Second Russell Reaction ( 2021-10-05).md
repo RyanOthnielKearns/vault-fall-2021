@@ -1,3 +1,6 @@
+#PHIL181 #Stanford #Stanford-Fall-2021 #philosophy #philosophy-of-language #reading-notes #reading-reaction
+2021-10-05
+___
 In this reaction I'll discuss Russell's "Gray's Elegy" argument and how it contributes to his theory of denoting phrases.
 
 Russell invokes his point about Gray's Elegy in the latter half of his paper "On Denoting," when he is looking to distinguish the *meaning* of a denoting phrase from its denotation. It seems to me that the central problem Russell seeks to solve here is one about *access*. We previously discussed how Russell's denoting complexes are "redirection devices," meaning they function to make propositions they occur within to be *about* things other than themselves. How, precisely, does this function? How does a denoting phrase contribute meaning to a proposition independently of its denotation?
