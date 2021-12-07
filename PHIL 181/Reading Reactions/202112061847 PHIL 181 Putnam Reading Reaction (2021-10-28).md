@@ -1,0 +1,9 @@
+#PHIL181 #Stanford #Stanford-Fall-2021 #philosophy #philosophy-of-language #reading-notes #reading-reaction #Putnam
+2021-10-28
+___
+# Reading Reaction for Putnam's [[Putnam, Meaning and Reference (annotated).pdf|"Meaning and Reference"]]
+## PHIL 181
+___
+I might be missing the point, or paying attention to the wrong bits, but I don't find Putnam's "Twin Earth" thought experiments to be especially compelling. Particularly, the point that Oscar_1 and Oscar_2 show that meaning / understanding can differ for the same psychological state plainly didn't seem that interesting to me. A Twin Earth in which a natural object's molecular structure is swapped out, while all of the relevant teleological, relational, and functional properties of that object are preserved, seems to me a bit too farcical for the point about the Oscars' _identical psychological states_ to carry much force. In other words, the experiment seems to hinge on some large metaphysical presuppositions that you could even do such molecule-swapping in the first place.
+
+I was about to leave this complaint where it lay, since it seemed tangential to Putnam's main argument. But by the end of the paper this was the only example refuting condition (1) (that meaning is a particular psychological state) that didn't rely on experts and Putnam's division of linguistic labor. I personally think Putnam's observation about dividing linguistic work, as with beeches and elms, is a phenomenal one. Yet it still sits uneasily with me that we had to reach into such odd metaphysical territory for that first example. I might object that I just don't find it conceivable that "water could be XYZ," given what I know about molecular bonds that's at least sufficient to believe "water is in fact H20."
