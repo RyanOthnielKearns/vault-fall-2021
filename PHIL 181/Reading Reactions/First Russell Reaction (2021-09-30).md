@@ -1,4 +1,6 @@
-#PHIL181 #philosophy #philosophy-of-language #Stanford #Stanford-Fall-2021 
+#PHIL181 #philosophy #philosophy-of-language #Stanford #Stanford-Fall-2021 #reading-notes #reading-reaction 
+2021-09-30
+___
 It seems to me that Russell shares Frege's view that the "aboutness" of a (propositional) sentence concerns its truth or falsity, determined by its contents and their relation to the world. In Professor Crimmins' words from last lecture, sentences are "live questions about how the world really is."
 
 To me, a contribution of Russell's theory in "On Denoting" is the relaxation of Frege's firm realism constraints that we causing issues in the edge cases of his theory. Specifically, Russell is concerned with Frege's denoting phrases in the cases where the denotation is absent -- sentences like "The present king of France is bald." or "Unicorns have only one horn." come to mind. Frege's theory seems hitched onto the idea that the *denotation* (the present king of France; unicorns) ultimately determines the contents of propositions containing denoting phrases. This commits him to a strange -- and in Russell's view, "artificial" (484) -- realist escape clause in which denoting phrases default in cases where their denotations are otherwise absent. Thus "The present king of France" or "unicorns" denote $\varnothing$.

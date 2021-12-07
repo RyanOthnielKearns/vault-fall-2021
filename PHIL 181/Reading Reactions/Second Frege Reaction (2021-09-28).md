@@ -1,3 +1,6 @@
+#PHIL181 #Stanford #Stanford-Fall-2021 #philosophy #philosophy-of-language #reading-notes #reading-reaction
+2021-09-28
+___
 For my second reading reaction to Frege I will try to distill what I understand to be the difference between the Object and *Begriffsschrift* models of identity statements, as well as a worry for the *Begriffsschrift* model.
 
 Under the Object model, names contribute the objects they stand for as their content. Thus "$A = B$" expresses the idea that the two nominata (the objects picked out by $A$ and $B$) are actually the same thing. This is a statement of numerical or *quantitative* identity. At the level of *content*, then, "$A = B$" (if true) *means* the same thing as "$A = A$", since both $A$ and $B$ contribute the same actual object as their content. An issue with this conception, one that Frege takes as motivation for his *Begriffsschrift* model, is the fact that statements like "$A = B$" contribute genuine knowledge about the world and often cannot be justified *a priori*. Since "$A = A$" is analytic -- true in virtue of meaning -- and able to be justified *a priori*, the idea that "$A = B$" contributes the same content is absurd. In Frege's own words, ""a=a" and "a = b" are sentences of obviously different cognitive significance" ("On Sense and Nominatum", 186).
