@@ -1,4 +1,8 @@
-#PHIL181 #philosophy #philosophy-of-language 
+#PHIL181 #philosophy #philosophy-of-language #Stanford #Stanford-Fall-2021 #reading-reaction #Grice
+2021-11-04
+___
+# Reading Reaction for H.P. Grice, [[H.P. Grice 1957, "Meaning".pdf|"Meaning"]]
+## PHIL 181
 *Prompt*: A “reductive” account of a certain kind of fact says that facts of that kind are _really only_ more or less complicated packages of facts of another kind. Grice is trying to reduce facts about what speakers _mean_ to other sorts of fact. Which sorts? What is his methodology---how does he test hypothesis about what constitutes a speaker meaning something?
 ___
 In my reading of "Meaning," it seems like Grice is trying to reduce facts about what speakers *mean* to a package of other facts, including what the speaker *believes* as well as their *intentions* for conveying their utterance in the way that they are. More specifically, for cases of informative meaning (as opposed to imperative meaning), speaker *A* intends to induce some belief *p* to an audience via utterance *x*. The inducing of said belief also happens by means of the audience recognizing *A*'s intention with their utterance. It is when these conditions hold that utterance $x$ *means* something.
