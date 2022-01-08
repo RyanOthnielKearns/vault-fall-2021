@@ -1,0 +1,2 @@
+[[Mariarosaria Taddeo 2010, "Trust in Technology- a Distinctive and a Problematic Relation".pdf]]
+Read the papers following this introduction to the journal issue: https://link.springer.com/journal/12130/volumes-and-issues/23-3

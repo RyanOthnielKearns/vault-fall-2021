@@ -1,0 +1,27 @@
+See [[Nguyen 2021, "Transparency is Surveillance".pdf]]
+- Nguyen breaks his critique of transparency into 3 arguments:
+	- *deception* argument: experts will not change their actions but will change the justifications they report
+	- *epistemic intrusion* argument: experts feel pressure to only engage in their subject in publically-accessible ways, undermining the quality of their work
+	- *intimate reasons* argument: transparency demands more publically-accessible terms for reasons that are only really understood within communities
+- *assessment transparency*: unveiling the details of a procedure so that outsiders can assess it
+	- publically-aimed assessment transparency = key case for Nguyen's argument
+		- the public is both "inexpert" and "rushed" (9)
+- *output* vs. *deliberative* transparency: mandating visibility via discrete outputs / metrics vs. visibility into the process & reasoning
+	- e.g. assessing doctors by # of lives saved vs. the decisions made during a life-saving surgery
+- the level or extent of intrusion (in epistemic intrusion) is tiered:
+	- *Deception* -> *Limitation* -> *Incentivized Guidance* -> *Internalized Guidance*
+- key problem or lynchpin in this whole argument has to do with the complexity and inaccessibility of an expert's expertise
+- "The more intrusive a regime of public transparency, the more it will force experts to reason like beginners." (10)
+- noticing that this form of "transparency" seems tailored to observation into the decision processes of human agents or systems, in which things like "expert judgement" and "academic honesty" can be compromised. I think it says less explicitly about transparency as an engineered property of systems, and this argument counterbalancing transparency and trust may need some shoehorning to apply in the generic machine learning / XAI case.
+	- This is despite the definition of transparency given: "'Transparency', in the broadest sense, indicates any process in which some entity makes information about its own activities available, to be used in further decisions and actions" (4)
+	- There is a key difference in the ML case where "being transparent in how one designs a model" and "designing a transparent model" are critically different undertakings. In fact, to the extent that transparent + accurate models are difficult feats of engineering, these two undertakings may counterbalance each other.
+- an issue with *value handoff* of public interests that relates to Nguyen's [[Nguyen 2021, "Trust as an Unquestioning Attitude" - Reading Notes|trust]] arguments: "permitting experts to flesh out our goals for us involves a substantial act of trust. It makes the full and detailed specification of a goal inaccessible to non-experts" (14)
+- The "relevant expertise" required for something like machine learning or doctoring is complex -- patients are the available experts on their own values and autonomy, but not on the medical interventions required for those values. Likewise machine learning engineers are experts on featurizing fairness but not the value of fairness itself.
+- interesting points about "fractally iterated trust" on page 20
+	- tension between trust and transparency further fleshed out on page 27
+		- too much trust opens the door for corruption and bias <> too much transparency limits expert abilities and forces goals to cohere to publically accessible forms
+___
+- to read from citations:
+	- [[Millgram 2015, The great endarkenment: Philosophy for an age of Hyperspecialization]]
+	- [[Gaus, G., & Hankins, K. (2017). Searching for the ideal: The fundamental diversity dilemma]]
+	- [[Biddle 2020, "On predicting recidivism: Epistemic risk, tradeoffs and values in machine learning"]]

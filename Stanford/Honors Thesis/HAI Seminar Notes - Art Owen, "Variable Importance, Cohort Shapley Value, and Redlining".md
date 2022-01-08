@@ -1,0 +1,55 @@
+- black box algorithms: deep networks, random forests, etc
+	- lots of potential unlocked that's not possible w simpler linear models
+	- but hard to explain / interpret
+- **variable importance**: for $\mathbf{x} = (x_1, \dots, x_n)$ which $x_j$ are important?
+	- variables might be important for 3 (or 4) reasons: ==look up on slides #TODO==
+	- $A$ is an important variable if changing $A$ changes $B$ where $B$ is important
+		- importance is *transferred*, not created (for purposes here)
+- literature
+	- statistics and uncertainty quantification: We, Lu, Song 2015
+	- explainable AI: Molnar 2018, "Interpretable machine learning: a guide for making black box models explainable"
+	- law / insurance / fairness / economics (Shapley value)
+- quantifying importance
+	- could change $x_j$ and watch $\hat{y}$ respond
+		- but: combinatorial problem: what values of $x_j$ to start with? what values to change it to? what happens to $x_k$ for $k\neq j$ while this is going on?
+	- measuring importance is about **causes of effects** -- harder than causal inference (**effects of causes**)
+		- Holland (1986): looking backwards to the cause of an effect is a much harder problem
+		- "The plant grew because I watered it" (maybe sunlight, fertilizer, etc etc.) -- looking backwards is hard!
+		- proximate causes vs. ultimate causes
+	- difficult examples: plane accidents where 5 variables go wrong at once... no accident *but for* $A$ (but same with $B$, $C$, ...)
+	- **cannot use**
+		- holdout samples
+		- bakeoffs on future data
+- ultimately interested in **relative importance**
+	- but what about **absolute** importance?
+	- $Var(f'(x))$ -- global sensitivity analysis?
+	- not just the formula but the variable range that matters (and distribution in that range)
+- multivariable complexities
+	- **interactions**: effect of changing $x_1$ depends on $x_2$, $x_3$, $\dots$, $x_d$
+	- correlations / dependencies
+		- does $x_1$ change $x_2$?
+	- most methods change some components but not all
+	- idea: **hybrid points** $f(x_{-u}:z_u) - f(x)$
+		- picks some things to change, pick some other things to freeze, compare change to baseline
+		- most of uncertainty quantification literature
+		- awkward: what if $x_1$ and $x_2$ are highly correlated? $x_1:z_2$ could be highly unlikely
+			- random pairings do not describe the actual distribution, not well regularized
+		- related: Brieman's permutation -- shuffle variables at random
+			- also awkward: can end up with impossible combinations like birth year > grad year
+				- computationally difficult to find these constraints of variables
+- two methods to tackle these
+	- Sobol' indices: handle interactions, have trouble with dependence
+		- large literature on global sensitivity analysis since 90s
+	- Shapley: handles interactions and dependence, but at potentially high cost
+		- for black box explanations: Strumbelj & Kononenko (2010)
+		- originally from economics: "how do you fairly share a reward among multiple causes (team members)?"
+			- assume you know what the reward should have been for every subset of team members
+			- unique solution: team member $j$ gets summation of incremental value they would have provided to all subset teams not including them
+- explaining variable importance with variance explained: global, not local explanation
+	- why was a specific person turned down for a loan?
+	- for some $t\in 1:n$, want to explain $f(x_t)$
+	- baseline Shapley: exponential in $d$ (number of teams)
+- what about variables not in models? Shapley can detect importance for variables not in models
+	- Kumar et al. 2020: catch-22 in what we choose to do w/ protected / "redlined" variables
+	- what if $g = (x_1, x_3, x_4)$, $x_2$ not included but $x_1\approx x_2$
+- Shapley's additivity axiom: controversial -- but can be used to calculate residual $Y - \hat{Y}$ which explains difference between predicted (to reoffend) vs. actual (reoffending) based on a variable (like race, in COMPAS case)

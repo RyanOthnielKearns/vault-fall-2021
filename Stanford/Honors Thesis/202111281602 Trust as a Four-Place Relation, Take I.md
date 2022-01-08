@@ -1,0 +1,15 @@
+In the philosophical literature on trust, most theorists take trust as either a two- or three-place relation. In the two-place relation of trust, agent $A$ trusts agent $B$. In the three-place relation, $A$ trusts $B$ to do $X$, where $X$ is some action. I want to investigate trust as a four-place relation. In this formulation, $A$ trusts $B$ to do $X$ under some set of contextual conditions $C$. In basic semantic usage, it is easy to see why contextual factors matter for evaluating trust relations. If you and I approach one another on a narrow highway, your choice to trust me to veer left upon passing depends critically on what country we're in! The relation $T(A, B, \text{``veer left"})$, interpreted within the same actual world, might differ in truth value for the same individuals $A$ and $B$, which makes it undesirable to consider as an artifact in any logical language. The relation $T(A, B, \text{``veer left''}, \text{``in Britain''})$ meanwhile does not suffer from this ambiguity, making it worth further investigation.
+
+Some scholars^[Which? Nguyen maybe] seem satisfied with considering contextual factors like "in Britain" on an ad hoc basis and not considering them as genuine constituents of the trust relation itself. I want to argue against this and claim that trust relations should make relevant contextual factors *explicit*. Specifically, if we want to consider trust as a model-theoretic logical construct, contextual factors can serve to disambiguate cases of trust between two agents concerning a particular action. I will show how this model-theoretic view on trust coheres with two promising accounts of trust with non-human entities, Nguyen's "unquestioning attitude" account, and Walker's "diffuse default" account^[Maybe look at others like [[Taddeo 2010, "Modelling Trust in Artificial Agents, A First Step Toward the Analysis of e-Trust" - Reading Notes|Taddeo's "e-trust" account]] and [[Primiero and Taddeo 2012, "A modal type theory for formalizing trusted communications".pdf|her logical account]]].
+
+___
+Still couched in our XAI context, we can ask, "Which philosophical formulation of trust best describes its usage as an end goal for Explainable Artificial Intelligence?" This forces us to account for the roles that explainability and transparency play in trust relations, and if no satisfactory account exists, we ought to change our understanding of the goals of XAI.
+
+This is making me think about drafting a second draft outline that:
+- gets specific about the need to formulate trust for XAI systems and research agendas specifically
+- considers 2, maybe 3 candidates for trust from the philosophical literature
+	- Nguyen's "unquestioning attitude" account
+	- Buecher, Tavani, and Walker's "diffuse default  zone" account
+	- Taddeo's "e-trust" account
+- argues for the model-theoretic account that draws largely from these three candidates
+	- and further articulates a potential logical foundation for assessing trust as a model-theoretic or modal characteristic

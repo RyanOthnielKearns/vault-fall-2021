@@ -1,0 +1,26 @@
+Tags: #transparency #trust #explainability #explainable-ai #explanation-vs-prediction #interpretability
+___
+- Katie Creel on transparency in complex systems
+- Trust having to do w/ interpretability / explainability
+	- a lot has to be in place --> *what* are we trusting?
+	- if we want to think of $R_{trust}$ -- still relative to a context
+	- in the "unquestioning attitude" view... people often trust things that aren't *trustworthy*... ==how is the discrepancy between the two spelled out?==
+		- ==*are XAI abstracts about trust or trustworthiness?*==
+- [[Shmueli 2010, "To Explain or to Predict?" - Reading Notes|Shmueli]]: explain vs. predict
+- sometimes being explainable makes you less trustworthy
+	- "interpreting" is exactly *not* taking as background or unquestioning (in the [[Nguyen 2021, "Trust as an Unquestioning Attitude" - Reading Notes|Nguyen "unquestioning attitude view"]])
+		- this is an objection to this model of trust (as a candidate for explainable AI literature)
+			- maybe a different sense of trust that's not [[Baier 1986, “Trust and Antitrust” (annotated).pdf|Baier's]] and not [[Nguyen 2021, "Trust as an Unquestioning Attitude" - Reading Notes|Nguyen's]]
+				- maybe just an "expectation of positive outcome" (like [[Bhattacharya et al. 1998, "A Formal Model of Trust Based on Outcomes" - Reading Notes|Bhattacharya's]]) model
+					- problem: a parole bot that just sets everyone free, or a sous chef that gives you $100 every time you want it to help you cook
+					- needs to be defined according to a proper objective function
+		- maybe the *availability* of interpretation is what matters?
+- "trusting" GPT-3 means treating it like a human (in the interpretive sense)
+- "do you want to understand something better, or more often be right?"
+- complexity <> accuracy a necessary tradeoff? not always (overfitting)
+- initial period of "trust building"
+	- how an infant comes into the world trusting their parents
+	- coming to trust via inductive justification (a bunch of trials)
+	- or: interpretability as a way to "fast track" trust
+		- trust: when something happened, explain why it happened (?)
+- four-place predicate: "$A$ trusts $B$ to do $X$ in context $Z$" --> context bit is most often left implicit

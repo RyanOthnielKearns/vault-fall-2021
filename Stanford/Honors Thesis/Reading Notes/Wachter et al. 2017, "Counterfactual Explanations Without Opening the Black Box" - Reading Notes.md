@@ -1,0 +1,15 @@
+# [[Wachter et al. 2017, “Counterfactual Explanations Without Opening the Black Box” (ANNOTATED).pdf|Wachter et al. 2017, "Counterfactual Explanations Without Opening the Black Box"]]
+## #reading-notes 
+Tags: #GDPR #algorithmic-fairness #explainable-ai #explanation #counterfactuals #counterfactual-explanations
+___
+### Summary
+This paper comes from the Harvard Journal of Law and Technology, and concerns counterfactual explanations in the context of GDPR and algorithmic decision-making. In summary, the authors propose counterfactuals as appropriate "explanations" of algorithmic decisions that might help data subjects contest decisions made about them.
+
+Counterfactual explanations don't "open the Black Box" -- that is, they don't concern the inner logic or mechanism of machine learning classifiers -- so they avoid the difficulties of explaining technical ML concepts to laypeople. Instead, counterfactual explanations provide a subset of inputs that would result in the desired classification. The optimal counterfactual explanation accesses the "nearest possible world" where the classification decision was desireable.
+
+According to the authors, counterfactuals can help *data subjects* (their term for people affected by algorithmic decisions) in three ways:
+1. *Inform* them; i.e. help them understand why a particular decision was made;
+2. Assist with *contesting* algorithmic decisions, mostly by instructing which aspects of one's data profile were relevant in the decision; and
+3. Understand what could be changed to achieve the desired classification in the future (assuming the model and the environment stay mostly fixed)
+
+Much of the paper's section IV talks about GDPR, and how the "right to explanation" in GDPR isn't actually a legal guarantee. Sections 13-15 of GDPR are mostly concerned with notifying the individual that data collection or algorithmic decision-making is taking place -- importantly, *ex ante*, otherwise there is no right to not be subject to an algorithmic decision. Most of the language in GDPR surrounding explanation has to do with the "logic involved" with typical classifications, not individual classification instances. The only clause to mention explanation by name is Recital 71, and the recitals are intended as recommendations over strict laws. Further, these sections don't provide an explicit connection between the right to an explanation and the right to contest an algorithmic decision, though the former would likely inform the latter. This means there is little to no pressure on the algorithm's designers to provide helpful information were someone to contest an algorithmic decision. This can be prohibitive in terms of resources and time, because data profiles for individuals can be massive. Counterfactuals would alleviate this issue by providing a small set of actionable inputs that would change the classification decision.
