@@ -85,7 +85,7 @@ ___
 		- Punishment, conceived as deterrence, works the same way
 
 ## The "menu items" for utilitarianism
-- The menu items are the three bullets in the [[202201060952 PHIL 170 Lecture 2 Notes (2022-01-06)#Background on Utilitarianism|"Background" section]]
+- The menu items are the three bullets in the [[PHIL 170 Lecture 2 Notes (2022-01-06)#Background on Utilitarianism|"Background" section]]
 - Rawls thinks we *shouldn't* use utilitarianism as a standard of action (for particular actions) *or* a principle of choice
 
 # Smart in [[J.J.C. Smart 1950, "Extreme and Restricted Utilitarianism".pdf|"Extreme and Restricted Utilitarianism"]]

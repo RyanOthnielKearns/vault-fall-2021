@@ -7,7 +7,7 @@ ___
 
 # Bernard Williams, "A Critique of Utilitarianism"
 ## Review: Smart on Promises, Vows, Laws, Property
-from [[202201060952 PHIL 170 Lecture 2 Notes (2022-01-06)]]
+from [[PHIL 170 Lecture 2 Notes (2022-01-06)]]
 - if you accept extreme version of the utilitarian doctrine --> at any point, if a person has a decision to make about what to do, *they have the authority* to consider which action available to them would produce the most happiness
 	- not only permissible, but the correct rational call to deliberate --> to think otherwise is to make some kind of rational error
 	- at most, should be cautious about biases or the propensity to make errors in the calculation
@@ -32,7 +32,7 @@ Rawls trying to dunk on Smart: "if one applies this view to rules, one is interp
 
 ### Examples
 #### Caveats
-- it's not straightforward how Williams' examples relate to "conventional" arguments against utilitarianism from [[202201060952 PHIL 170 Lecture 2 Notes (2022-01-06)|last time]], e.g. punishment and promising
+- it's not straightforward how Williams' examples relate to "conventional" arguments against utilitarianism from [[PHIL 170 Lecture 2 Notes (2022-01-06)|last time]], e.g. punishment and promising
 	- not also directly about pointing out how utilitarian reaches the wrong verdict (the utilitarian verdict in Jim's case might get it right, actually)
 	- rather, what is morally important to *think* / *feel* when we figure out what we should do (and how utilitarianism doesn't provide us with the proper thinking / feeling, and that's something we want from moral philosophical accounts)
 - these arguments are clearly addressed to those who are *not yet* utilitarians (an external critique)
