@@ -1,8 +1,19 @@
+# obsidian stuff
 .obsidian
 .obsidian/
 .vault-stats
 
-.vault-stats
+# try to capture large code-related files
+*/__pycache__/
+*/__pycache__
+*/__pycache__/*
+*.conll
+*.pkl
+*.bin
+*.bin.optim
+*.zip
+
+# maintained by lazygit
 .DS_Store
 Stanford/Y4Q2/PHIL 170/.DS_Store
 Stanford/Y4Q2/PHIL 170/Readings/.DS_Store
@@ -15,3 +26,12 @@ Stanford/Y4Q2/.DS_Store
 Stanford/Y4Q2/CS 224N/Code/a2/utils/datasets
 Stanford/Y4Q2/CS 224N/Code/a2/__pycache__
 Stanford/Y4Q2/CS 224N/Code/a2/utils/__pycache__
+
+Stanford/Y4Q2/CS 224N/Code/a3/__pycache__
+Stanford/Y4Q2/CS 224N/Code/a3/data
+Stanford/Y4Q2/CS 224N/Code/a3/results
+Stanford/Y4Q2/CS 224N/Code/a4/__pycache__
+Stanford/Y4Q2/CS 224N/Code/a4/chr_en_data
+Stanford/Y4Q2/CS 224N/Code/a4/outputs
+Stanford/Y4Q2/CS 224N/Code/a4/runs/nmt_local
+Stanford/Y4Q2/CS 224N/Code/a4/sanity_check_en_es_data
