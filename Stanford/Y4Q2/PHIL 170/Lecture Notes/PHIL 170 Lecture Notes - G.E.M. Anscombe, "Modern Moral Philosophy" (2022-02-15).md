@@ -43,3 +43,16 @@ useful to keep in mind as we talk about [[Anscombe, G.E.M. 1958, "Modern Moral P
 - less emphasis on right and wrong (permissible and impermissible) *actions*, more emphasis on *virtuous* and *vicious* traits of **character**
 	- abiding theme: this emphasis often comes at the *expense* of more important emphases, namely the virtuous / vicious character traits
 	- **virtues** constitute distinctive *human excellences* -- ways *it is good to be* (justice, wisdom, courage)
+		- we can talk about what these are -- but there may not be some ultimate "codifiability" for any particular virtue
+		- so, we cannot expect *exceptionless principles* to follow from discussion of them
+		- in Aristotle: ethical principles hold "only for the most part"
+	- the **good human** = the person who *exhibits the virtues* = the person who thrives, or flourishes, in a manner distinctive of the *kind of thing* a human *is*
+		- philosophy can help us understand the human good
+			- how / why is it good for us to be good?
+			- how is a life involving cultivation / exercise of the virtues (a "life of virtue") the *best kind* of human life?
+			- this is like learning a skill, or recognitional capacity, like learning to play the drums -- can't simply be given instructions to follow exhaustively...
+- Anscombe: to some extent what we need to do is jettison everything from the "detour" through Christian morality (all of the stuff about divine law) that we took after Aristotle
+	- Anscombe was also a super devout Catholic... what to do with that?
+
+*will continue with Anscombe and Foot next time, who are interrelated*
+
