@@ -1,0 +1,4 @@
+- Given promising as an institution, it's not all to clear who belongs to the institution
+	- The safest thing to say is that we *all* belong to the institution
+- There is an *information loss* argument, which basically says that examining utilitarian arguments at the practice level loses information compared to separate utilitarian considerations of each action instance
+	- Utilitarianism aggregates instances together to form a judgement on what is optimistic. It is cumulative by design. So the idea that we might level a utilitarian argument at a practice, with the assumption that the individual actions falling under the practice *have no justificatory standing* independent of that of the practice, sounds incoherent 

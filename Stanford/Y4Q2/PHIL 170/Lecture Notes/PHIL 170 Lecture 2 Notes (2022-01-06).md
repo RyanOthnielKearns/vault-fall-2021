@@ -57,7 +57,7 @@ ___
 	- virtue: a tremendous amount of clarity as to what decision would be the *right* one
 	- at the same time: a kind of uncertainty with that clarity: how can we possibly hope to calculate the utility of a decision? we always have to hedge at some point to some degree...
 
-# Rawls in [[John Rawls 1955, "Two concepts of rules".pdf|"Two concepts of rules"]]
+# Rawls in [[Rawls, John 1955, "Two concepts of rules".pdf|"Two concepts of rules"]]
 ## Three Related Aims
 - first unpacking what goes on in Rawls' paper
 
