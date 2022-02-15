@@ -1,0 +1,46 @@
+#CS #CS224N #project #NLP #deep-learning 
+___
+- pronounced Mirach
+- advised by Percy Liang
+- doing some work on patents and intellectual property in addition to NLP
+- dataset exists! and will be published hopefully next month
+	- also a paper that can be shared with us -- first in a series of publications
+		- CS 224N could be used to answer some of the future work questions in that first paper
+- can focus on legal side, linguistics side, finance side, etc.
+	- in 5,823 patent cases in 2015, but ~45% were all filed in one district in Texas
+		- one judge in Texas was super permissive of patents, passed ~45% compared to the national average of ~20%
+- "patent trolls" -- malicious non-practicing patent holders
+	- approach small businesses with patents similar to their business plan, approach them and enforce a settlement lest you go to court over patent infringement
+	- there should be legal regulation to stop patent trolls
+		- as an NLP researcher, can you look at language used in "trolled" patents and find evidence of deliberate ambiguity
+		- can we identify patent trolls at the time of filing?
+- Harvard USPTO -- one of the largest single-domain datasets in NLP
+	- 4.5 million utility patent applications from 2004 - 2018
+	- highly structured information via a JSON template
+		- abstract section, claims section, patent filer, etc.
+- initial research goals
+	- separability of "rejected" patent applications from accepted patent applications
+		- rejection is non-trivial b/c there's an appeals process, etc.
+		- but can form a working definition of rejection as (given rejection notice from USPTO (US patent and trademark office) and abandoned after a year)
+		- train a classifier to predict acceptance
+	- language used in different domains
+		- how does the language in one domain differ from another?
+			- e.g. in biotech people begin with really small claim coverage and then expand in follow-ups
+			- tech is a "wild west" of patent filing where people have large claim coverage at the beginning
+	- evaluation of innovation concepts over time -- how do concepts / trends in innovation change over time?
+		- they did this conceptually, but lots of future work to get more specific
+- potential future directions
+	- understand characteristics / impact of litigated patents
+		- predict whether a certain patent is likely to be litigated
+		- Stanford already has litigation database (Stanford NPE Litigation Database) -- can link to our database
+	- understand "the world after *Alice*"
+		- 2014 supreme court case about software / tech patent applications and whether certain concepts can be "patentable"
+		- immediate aftermath: decrease in patents filed to the USPTO
+		- has the language evolved? level of ambiguity? etc.
+		- gives sense of policy recommendations to the law
+			- "good gatekeepers" to innovation
+		- how are examiners adjusting to Alice?
+	- understand the impact of examiners
+		- examiners might affect whether a certain patent is likely to be accepted
+			- junior examiners are harsher than senior examiners
+			- some companies are gaming the system, working in a niche field where they personally know which examiners will be on vacation at the time of their filing
