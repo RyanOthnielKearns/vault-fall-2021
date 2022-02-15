@@ -1,0 +1,4 @@
+#honors-thesis #daily-notes #trust 
+The goal on the table is to get an initial thesis draft to Thomas by this weekend. I have [[Freewrite for Thomas in advance of Tuesday meeting (2022-01-10)]] from a month ago, which to me feels like the furthest I've gotten argumentatively. The philosophical contribution *at base* is the introduction of the **trusting instace**, which seems novel in the context of other philosophical theories. It also has the benefit of being palletable from a logical point of view, which makes it attractive to computer scientists since it can make an artifact's truthworthiness quantifiable into discrete cases, at whatever level of specificity you'd like to model.
+
+So, I think the plan is to lift [[Freewrite for Thomas in advance of Tuesday meeting (2022-01-10)]] into a third draft of my outline and start filling out sections. See [[Outline v3 (2022-02-10)]]
