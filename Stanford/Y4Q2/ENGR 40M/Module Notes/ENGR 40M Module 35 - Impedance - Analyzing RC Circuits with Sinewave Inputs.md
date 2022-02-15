@@ -1,4 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
+[[ENGR 40M Module 34 - Analyzing RC Circuits|Prev]] | [[ENGR 40M Module 36 - Parallel and Series Capacitors|Next]]
 ___
 See [[ENGR 40M Course Reader.pdf]] 7.3
 
