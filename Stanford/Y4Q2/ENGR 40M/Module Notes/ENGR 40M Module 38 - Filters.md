@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 37 - Using Impedance|Prev]] | Next
+[[ENGR 40M Module 37 - Using Impedance|Prev]] | [[ENGR 40M Module 39 - Bode Plots and dB|Next]]
 ___
 See [[ENGR 40M Course Reader.pdf]] 7.4
 
