@@ -3,7 +3,7 @@ ___
 See [[Korsgaard, Christine M. 1988, "Two Arguments Against Lying".pdf|reading for today]]
 
 # Deontology
-Kantian ethics, continuing from [[PHIL 170 Lecture 8 Notes (2022-02-01)|last time]]
+Kantian ethics, continuing from [[PHIL 170 Lecture 9 Notes (2022-02-01)|last time]]
 - evaluating actions *themselves* as right/wrong, rather than their consequences
 - some actions are simply *wrong in themselves*
 - central tenets

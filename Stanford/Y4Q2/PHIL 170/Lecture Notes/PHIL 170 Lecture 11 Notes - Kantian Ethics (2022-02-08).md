@@ -2,7 +2,7 @@
 ___
 # Preamble
 - Reading: [[Herman, Barbara 1981, “On the Value of Acting from the Motive of Duty” (annotated).pdf]]
-- Also discussing [[Korsgaard, Christine M. 1988, "Two Arguments Against Lying".pdf]] (from [[PHIL 170 Lecture 9 Notes - Korsgaard's Two Arguments Against Lying (2022-02-03)|last time]]) and [[Schapiro, Tamar 2001, "Three Conceptions of Action in Moral Theory".pdf]]
+- Also discussing [[Korsgaard, Christine M. 1988, "Two Arguments Against Lying".pdf]] (from [[PHIL 170 Lecture 10 Notes - Korsgaard's Two Arguments Against Lying (2022-02-03)|last time]]) and [[Schapiro, Tamar 2001, "Three Conceptions of Action in Moral Theory".pdf]]
 	- re-covering a bit of the territory from last time's conversation
 
 # Kantian Ethics from last time
