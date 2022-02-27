@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 37 - Using Impedance|Prev]] | Next
+[[ENGR 40M Module 40 - EKG - Bio-electrical Signals|Prev]] | [[ENGR 40M Module 42 - Op-Amps|Next]]
 ___
 See [[ENGR 40M Course Reader.pdf]] 8 - 8.1
 
