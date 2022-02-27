@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 44 - Op-Amp Filters|Prev]] | Next
+[[ENGR 40M Module 44 - Op-Amp Filters|Prev]] | [[ENGR 40M Module 46 - Noise & EKG Measurement Circuit|Next]]
 See [[ENGR 40M Course Reader.pdf|8.3.2]]
 ___
 # Learning objectives
