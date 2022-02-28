@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 45 - Differential Amplifiers|Prev]] | Next
+[[ENGR 40M Module 45 - Differential Amplifiers|Prev]] | [[ENGR 40M Module 47 - Inductors - Another Time Dependent Element|Next]]
 ___
 - world contains many signals besides the one you want to measure
 	- minimize their effect on your measurement
