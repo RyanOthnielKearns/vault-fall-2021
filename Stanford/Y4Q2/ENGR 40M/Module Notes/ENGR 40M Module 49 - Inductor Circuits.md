@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 48 - Filters with Inductors|Prev]] | [[ENGR 40M Module 50 - Voltage Conversion - Buck Converter|Next]]
+[[ENGR 40M Module 48 - Filters with Inductors|Prev]] | [[ENGR 40M Module 50 - Voltage Conversion|Next]]
 See [[ENGR 40M Course Reader.pdf|Reader 9.3]]
 ___
 # Learning Objectives

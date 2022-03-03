@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 49 - Inductor Circuits|Prev]] | Next
+[[ENGR 40M Module 49 - Inductor Circuits|Prev]] | [[ENGR 40M Module 51 - Buck Converter|Next]]
 See [[ENGR 40M Course Reader.pdf|Reader 9.4 - 9.5]]
 ___
 - how to convert power coming in at one voltage into a power at a different voltage
@@ -47,4 +47,4 @@ $$\frac{V_\text{out}}{V_\text{in}} = \frac{Z_1}{Z_1 + Z_2} = \frac{1}{1 + j2\pi 
 		- meaning output of 12V at 200 kHz ~ 1mV
 - the cool thing: inductors / capacitors are "lossless", so we've done this conversion pretty much efficiently
 	- also make $R$ of the two transistors really small
-	- is this really possible? next time will get into it...
+	- is this really possible? [[ENGR 40M Module 51 - Buck Converter|next time]] will get into it...
