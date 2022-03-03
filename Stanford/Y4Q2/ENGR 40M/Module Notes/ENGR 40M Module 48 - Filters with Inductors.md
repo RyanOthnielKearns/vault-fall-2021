@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 47 - Inductors - Another Time Dependent Element|Prev]] | Next
+[[ENGR 40M Module 47 - Inductors - Another Time Dependent Element|Prev]] | [[ENGR 40M Module 49 - Inductor Circuits|Next]]
 See [[ENGR 40M Course Reader.pdf|Reader 7.3]]
 ___
 # Learning Objectives
