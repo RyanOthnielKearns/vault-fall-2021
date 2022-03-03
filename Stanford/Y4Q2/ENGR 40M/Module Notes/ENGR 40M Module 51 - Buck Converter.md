@@ -1,5 +1,5 @@
 #ENGR40M #ENGR #Stanford #Stanford-Winter-2022 #lecture-notes 
-[[ENGR 40M Module 50 - Voltage Conversion|Prev]] | Next
+[[ENGR 40M Module 50 - Voltage Conversion|Prev]] | [[ENGR 40M Module 52 - Boost Converters|Next]]
 See [[ENGR 40M Course Reader.pdf|Reader 9.5.1]]
 ___
 - explain how it's possible to be energy-efficient in the 12V -> 1V power supply
